@@ -1,0 +1,32 @@
+2)spam url
+
+The user-based features are identied through various objects
+such as account age and number of user favorites, lists, and
+tweets. The identied user-based features are parsed from the
+JSON structure. On the other hand, the tweet-based features
+include the number of (i) retweets, (ii) hashtags, (iii) user
+mentions, and (iv) URLs
+
+favourites = favourite,tweets  = tweetcount
+retweets = retweet, hashtags = hashtag, user mentions = 
+
+1)fake content
+If the number of followers
+is low in comparison with the number of followings,
+the credibility of an account is low and the possibility that the
+account is spam is relatively high. Likewise, feature based
+on content includes tweets reputation, HTTP links, mentions
+and replies, and trending topics. For the time feature, if many
+tweets are sent by a user account in a certain time interval,
+then it is a spam account.
+
+trending topic
+
+The first one is the recognition of spam tweets
+
+4)fake account
+These attributes include the number of followers
+and following, age, FF ratio, and reputation. Alternatively,
+content features are linked to the tweets that are posted by users as spam bots that post a huge amount of
+duplicate contents as contrast to non-spammers who do not
+post duplicate tweets.
